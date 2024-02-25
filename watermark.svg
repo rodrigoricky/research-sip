@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="71" height="32" viewBox="0 0 71 32">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 14px;
+        fill: #fff;
+        text-anchor: middle;
+        font-family: Inter;
+        font-weight: 800;
+        text-transform: uppercase;
+      }
+    </style>
+  </defs>
+  <text id="TULONG" class="cls-1" x="35" y="21"><tspan x="35">TULONG</tspan></text>
+</svg>
